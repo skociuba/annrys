@@ -41,7 +41,9 @@ const Nav = () => {
             <Link href="/#payment">Płatności</Link>
           </li>
         </ul>
-        <h1 style={{color: `${textColor}`}} className="mt-3 text-5xl font-bold">
+        <h1
+          style={{color: `${textColor}`}}
+          className="mt-3 text-2xl font-bold lg:text-5xl">
           FH ANNRYS
         </h1>
         {/* Mobile Button */}
